@@ -1,0 +1,37 @@
+
+Ymain.java.es.ull.flights.Flight#removePassenger(Lmain/java/es/ull/passengers/Passenger;)Zo
+eC:/Users/pablo/OneDrive/Escritorio/Practica7/Airport_entrega/src/main/java/es/ull/flights/Flight.java, ,(""1*›
+1- -(’
+- -(!
+
+%0void"Smain.java.es.ull.passengers.Passenger#setFlight(Lmain/java/es/ull/flights/Flight;)V*P
+
+__unknown_file (4
+2
+	passenger%main.java.es.ull.passengers.Passenger*"
+
+__unknown_file (
+""2,setFlight(Lmain/java/es/ull/flights/Flight;)x
+v
+. .(
+%1java.util.Set"__id*O
+
+__unknown_file (3*1!
+main.java.es.ull.flights.Flight"
+
+passengersèå
+. .(+
+%2boolean")java.util.Set#remove(Ljava/lang/Object;)Z*1
+
+__unknown_file (
+
+%1java.util.Set*P
+
+__unknown_file (4
+2
+	passenger%main.java.es.ull.passengers.Passenger2remove(Ljava/lang/Object;)"
+. .(,
+"":>
+,# ,(62
+	passenger%main.java.es.ull.passengers.PassengerB#!
+main.java.es.ull.flights.FlightHX
