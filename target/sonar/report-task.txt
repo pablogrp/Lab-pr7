@@ -1,7 +1,0 @@
-organization=pablogrp
-projectKey=pablogrp_Lab-pr72
-serverUrl=https://sonarcloud.io
-serverVersion=8.0.0.58190
-dashboardUrl=https://sonarcloud.io/dashboard?id=pablogrp_Lab-pr72
-ceTaskId=AZOCr6RMra8-NwA2bY9d
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZOCr6RMra8-NwA2bY9d

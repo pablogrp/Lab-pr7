@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.*;
 import main.java.es.ull.passengers.Passenger;
 import main.java.es.ull.flights.Flight;
 
-class FlightsTest {
+class PassengersTest {
 
       // Tests para inicializar un pasaajero
     @Test
@@ -146,4 +146,17 @@ class FlightsTest {
         Passenger passenger = new Passenger("12345678A", "John Doe", "ES");
         assertNotEquals("Passenger Jane Doe with identifier: 12345678A from ES", passenger.toString());
     }
+
+    // Test previus flight
+    @Test
+    void testPreviousFlight() {
+        Passenger passenger = new Passenger("12345678A", "John Doe", "ES");
+        Flight flight1 = new Flight("AA1234", 100);
+        Flight flight2 = new Flight("BB1234", 100);
+        passenger.joinFlight(flight1);
+        passenger.joinFlight(flight2);
+        assertEquals(0, flight1.getNumberOfPassengers());
+    }
+
+
 }

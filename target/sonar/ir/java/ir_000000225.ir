@@ -1,16 +1,0 @@
-
-P
-toStringBmain.java.es.ull.passengers.Passenger#toString()Ljava/lang/String; «""Passenger "java.lang.String" from "java.lang.String*" with identifier: "java.lang.String9thisQ Q("%main.java.es.ull.passengers.Passenger9thisQ Q("%main.java.es.ull.passengers.Passenger"Âu
-s
-R R('"N
-getNameAmain.java.es.ull.passengers.Passenger#getName()Ljava/lang/String; *2java.lang.String8
-
-RA R(P"Z
-getIdentifierGmain.java.es.ull.passengers.Passenger#getIdentifier()Ljava/lang/String; *2java.lang.String8„
-
-R^ R(n"\
-getCountryCodeHmain.java.es.ull.passengers.Passenger#getCountryCode()Ljava/lang/String; *2java.lang.String8.
-,
-R R(n"
-	#binop +#	#binop +#*
-R R(o*kC:/Users/pablo/OneDrive/Escritorio/Practica7/Airport_entrega/src/main/java/es/ull/passengers/Passenger.java
